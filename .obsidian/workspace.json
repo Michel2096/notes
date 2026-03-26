@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Base/Ejercicios aplicados.md",
+                "file": "Data Base/Vistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios aplicados"
+              "title": "Vistas"
             }
           },
           {
-            "id": "242d53372756ce8b",
+            "id": "ccb2f5c0f3176e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +35,8 @@
               "title": "JSON"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b8615e9d9f351cd8",
@@ -212,17 +213,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6bce5d1e5f6b7fa2",
+  "active": "ccb2f5c0f3176e3b",
   "lastOpenFiles": [
-    "Data Base/JSON.md",
-    "Data Base/Beginnings.md",
-    "Data Base/SQL.md",
-    "Examen/Estudio.md",
-    "Data Base/Ejercicios aplicados.md",
-    "Data Base/Comandos sql.md",
+    "Data Base/Indices en Mongo.md",
+    "Data Base/Vistas.md",
+    "Data Base/Indices.md",
+    "Data Base/Backend y Base de datos.md",
     "Data Base/No SQL y Mongo.md",
-    "Sin nombre",
+    "Data Base/SQL.md",
     "Data Base/Tipos de normalizacion.md",
+    "Data Base/Big Data.md",
     "Data Base/Tipos de modelos de datos.md",
     "Data Base/Tipo de Bases de datos.md",
     "Data Base/OLTP vs OLAP.md",
@@ -230,7 +230,13 @@
     "Data Base/Modelos de datos.md",
     "Data Base/Modelo Entidad Relacion.md",
     "Data Base/Llaves.md",
+    "Data Base/JSON.md",
+    "Data Base/Ejercicios aplicados.md",
+    "Data Base/Comandos sql.md",
+    "Data Base/Beginnings.md",
     "Data Base/ACID.md",
+    "Examen/Estudio.md",
+    "Sin nombre",
     "Assets/Pasted image 20260326123351.png",
     "Assets/Pasted image 20260326122847.png",
     "HomeWork.md",
@@ -249,11 +255,6 @@
     "Examen/Examen.md",
     "Examen/Estructura.md",
     "Examen/Comandos.md",
-    "Examen/Aws.md",
-    "Examen/A doc project.md",
-    "Examen/Nube.md",
-    "English/Beginnings.md",
-    "English/Cosas.md",
     "Examen",
     "Sin título.canvas",
     "Estadistica",
