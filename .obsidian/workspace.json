@@ -6,6 +6,7 @@
       {
         "id": "91fafd7e2433b00d",
         "type": "tabs",
+        "dimension": 57.40540540540541,
         "children": [
           {
             "id": "6bce5d1e5f6b7fa2",
@@ -13,34 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Base/Vistas.md",
+                "file": "Data Base/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vistas"
-            }
-          },
-          {
-            "id": "ccb2f5c0f3176e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Base/JSON.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JSON"
+              "title": "SQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b8615e9d9f351cd8",
         "type": "tabs",
+        "dimension": 42.59459459459459,
         "children": [
           {
             "id": "a5caba9cf0b3c040",
@@ -213,54 +200,54 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ccb2f5c0f3176e3b",
+  "active": "a5caba9cf0b3c040",
   "lastOpenFiles": [
-    "Data Base/Indices en Mongo.md",
-    "Data Base/Vistas.md",
-    "Data Base/Indices.md",
-    "Data Base/Backend y Base de datos.md",
-    "Data Base/No SQL y Mongo.md",
     "Data Base/SQL.md",
-    "Data Base/Tipos de normalizacion.md",
+    "Data Base/Sharding.md",
+    "Data Base/Escalabilidad.md",
+    "Data Base/Explain plans.md",
+    "Data Base/Performance.md",
+    "Data Base/Columnar.md",
+    "Data Base/Redis.md",
+    "Data Base/Grafos.md",
     "Data Base/Big Data.md",
-    "Data Base/Tipos de modelos de datos.md",
-    "Data Base/Tipo de Bases de datos.md",
-    "Data Base/OLTP vs OLAP.md",
-    "Data Base/Normalizacion.md",
-    "Data Base/Modelos de datos.md",
-    "Data Base/Modelo Entidad Relacion.md",
-    "Data Base/Llaves.md",
-    "Data Base/JSON.md",
-    "Data Base/Ejercicios aplicados.md",
-    "Data Base/Comandos sql.md",
-    "Data Base/Beginnings.md",
     "Data Base/ACID.md",
+    "Data Base/Microservicios.md",
+    "Pasted image 20260328020935.png",
+    "kraken/Kraken.md",
+    "Data Base/JSON.md",
+    "Data Base/Backend y JSON.md",
+    "Data Base/Seeds.md",
+    "Data Base/Indices.md",
+    "Data Base/CRUD.md",
+    "Data Base/Beginnings.md",
+    "Data Base/Enums.md",
+    "Data Base/Extensiones.md",
+    "Assets/Pasted image 20260327011901.png",
+    "Data Base/Backend y Base de datos.md",
+    "Assets/Pasted image 20260327011040.png",
+    "kraken.md",
+    "kraken",
+    "Examen/A doc project.md",
+    "Examen/Nube.md",
+    "Examen/Examen.md",
     "Examen/Estudio.md",
-    "Sin nombre",
+    "Imss",
     "Assets/Pasted image 20260326123351.png",
     "Assets/Pasted image 20260326122847.png",
-    "HomeWork.md",
-    "English/Prepositions.md",
     "Assets/Pasted image 20260324164933.png",
     "Assets/Pasted image 20260325171851.png",
     "Assets/Pasted image 20260325171734.png",
     "Assets/Pasted image 20260325171640.png",
     "Assets/Pasted image 20260325171455.png",
-    "Assets/Pasted image 20260325171207.png",
     "Sin título.base",
-    "Assets/Pasted image 20260325170845.png",
-    "Assets/Pasted image 20260325170602.png",
     "Sin título 1.base",
     "Data Base",
-    "Examen/Examen.md",
-    "Examen/Estructura.md",
-    "Examen/Comandos.md",
     "Examen",
     "Sin título.canvas",
     "Estadistica",
     "Aws",
     "Richie",
-    "Excel",
-    "Python"
+    "Excel"
   ]
 }

@@ -152,11 +152,11 @@ Para abrir el swagger, debo abrir el apidocs, para poder ver la documentacion de
 # Indice
 [[Estructura del proyecto]]
 [[Git Gub]]
-[[Extensiones]]
+[[Richie/Extensiones]]
 [[Documentation]]
 [[Comandos]]
 [[Historia de Abuso]]
 [[Proceso de codigo]]
-[[Microservicios]]
+[[Richie/Microservicios]]
 [[Examen]]
 
