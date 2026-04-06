@@ -6,7 +6,7 @@
       {
         "id": "91fafd7e2433b00d",
         "type": "tabs",
-        "dimension": 57.40540540540541,
+        "dimension": 74.00690846286702,
         "children": [
           {
             "id": "6bce5d1e5f6b7fa2",
@@ -14,20 +14,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Base/SQL.md",
+                "file": "English/Idioms complejos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Idioms complejos"
+            }
+          },
+          {
+            "id": "33bb69fc71e218d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b8615e9d9f351cd8",
         "type": "tabs",
-        "dimension": 42.59459459459459,
+        "dimension": 25.99309153713299,
         "children": [
           {
             "id": "a5caba9cf0b3c040",
@@ -71,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ideas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,46 +215,47 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6a02f37e0ebc2cc7",
+  "active": "33bb69fc71e218d4",
   "lastOpenFiles": [
-    "Data Base/SQL.md",
-    "Data Base/Sharding.md",
-    "Data Base/Escalabilidad.md",
-    "Data Base/Explain plans.md",
-    "Data Base/Performance.md",
-    "Data Base/Columnar.md",
-    "Data Base/Redis.md",
-    "Data Base/Grafos.md",
-    "Data Base/Big Data.md",
-    "Data Base/ACID.md",
-    "Data Base/Microservicios.md",
-    "Assets/Pasted image 20260328020935.png",
+    "English/Slang.md",
+    "English/Idioms complejos.md",
+    "English/Estructuras con inversion.md",
+    "English/Vocabulary.md",
+    "English/Formas condicionales mixtas (mixed conditionals).md",
+    "HomeWork.md",
+    "English/Sin título.canvas",
+    "English/Toefl Test.md",
+    "English/Test on, in, at, by , from.md",
+    "English/Prepositions.md",
+    "English/Phrasal Verbs.md",
+    "English/Cosas.md",
+    "English/Beginnings.md",
     "kraken/Kraken.md",
-    "Data Base/JSON.md",
-    "Data Base/Backend y JSON.md",
-    "Data Base/Seeds.md",
-    "Data Base/Indices.md",
-    "Data Base/CRUD.md",
-    "Data Base/Beginnings.md",
+    "kraken/Structure.md",
+    "kraken/Sin título.md",
+    "Assets/Pasted image 20260402213603.png",
     "Data Base/Enums.md",
     "Data Base/Extensiones.md",
-    "Assets/Pasted image 20260327011901.png",
-    "Data Base/Backend y Base de datos.md",
-    "Assets/Pasted image 20260327011040.png",
-    "kraken.md",
+    "Excel/Funciones.md",
+    "Excel/Graficos.md",
+    "Assets/Pasted image 20260329023021.png",
+    "Assets/Pasted image 20260329022127.png",
+    "Excel/Excel.md",
+    "Excel/Tipos de datos.md",
+    "Excel/Tipos de archivos.md",
+    "Excel/Operaciones.md",
+    "Excel/Macros.md",
+    "Excel/Filas y Columnas.md",
+    "Assets/Pasted image 20260329020432.png",
+    "Assets/Pasted image 20260329014906.png",
+    "Assets/Pasted image 20260329010143.png",
+    "Assets/Pasted image 20260329010123.png",
+    "Assets/Pasted image 20260329010006.png",
+    "Assets/Pasted image 20260329005918.png",
+    "Assets/Pasted image 20260329005703.png",
+    "Data Base/SQL.md",
     "kraken",
-    "Examen/A doc project.md",
-    "Examen/Nube.md",
-    "Examen/Examen.md",
-    "Examen/Estudio.md",
     "Imss",
-    "Assets/Pasted image 20260326123351.png",
-    "Assets/Pasted image 20260326122847.png",
-    "Assets/Pasted image 20260324164933.png",
-    "Assets/Pasted image 20260325171851.png",
-    "Assets/Pasted image 20260325171734.png",
-    "Assets/Pasted image 20260325171640.png",
-    "Assets/Pasted image 20260325171455.png",
     "Sin título.base",
     "Sin título 1.base",
     "Data Base",
